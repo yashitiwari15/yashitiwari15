@@ -1,4 +1,5 @@
 👋 Hi, I'm Yashi Tiwari!
+
 🚀 AI/ML Enthusiast | CSE Undergrad @ Bennett University (2026)
 
 I'm passionate about designing intelligent systems that combine innovation with real-world impact. My expertise includes:
