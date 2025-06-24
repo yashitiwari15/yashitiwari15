@@ -4,9 +4,13 @@
 I'm passionate about designing intelligent systems that combine innovation with real-world impact. My expertise includes:
 
 🧠 Machine Learning & Deep Learning – TensorFlow, PyTorch, Scikit-Learn
+
 🧩 LLMs & Retrieval-Augmented Generation (RAG) – LangChain, Hugging Face Transformers
+
 🔍 NLP & Computer Vision – Word Embeddings, OpenCV, Transformers
+
 ⚙️ Algorithms & Optimization – Soft Computing, Neural Networks, Genetic Algorithms
+
 🌐 API Development & Integration – RESTful APIs, LLM pipelines, model deployment
 
 
