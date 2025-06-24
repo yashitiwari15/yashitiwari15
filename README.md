@@ -1,10 +1,13 @@
-👋 Hi, I'm Yashi Tiwari!<br/>
-🚀 AI/ML Enthusiast | CSE Undergrad @ Bennett University (2026)<br/>
-I’m passionate about building intelligent systems that blend efficiency with innovation. My expertise spans across:<br/>
+👋 Hi, I'm Yashi Tiwari!
+🚀 AI/ML Enthusiast | CSE Undergrad @ Bennett University (2026)
 
-🧠 Machine Learning & Deep Learning – TensorFlow, PyTorch, Scikit-Learn<br/>
-🔎 Computer Vision & NLP – OpenCV, Transformers, Word Embeddings<br/>
-⚡ Algorithms & Optimization – Soft Computing, Neural Networks, Genetic Algorithms<br/>
+I'm passionate about designing intelligent systems that combine innovation with real-world impact. My expertise includes:
+
+🧠 Machine Learning & Deep Learning – TensorFlow, PyTorch, Scikit-Learn
+🧩 LLMs & Retrieval-Augmented Generation (RAG) – LangChain, Hugging Face Transformers
+🔍 NLP & Computer Vision – Word Embeddings, OpenCV, Transformers
+⚙️ Algorithms & Optimization – Soft Computing, Neural Networks, Genetic Algorithms
+🌐 API Development & Integration – RESTful APIs, LLM pipelines, model deployment
 
 
 ## 🌐 Socials:
